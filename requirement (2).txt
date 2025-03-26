@@ -1,0 +1,10 @@
+docx
+streamlit
+scikit-learn
+pandas
+numpy
+python-docx
+pickle5
+prophet
+keras
+statsmodel
